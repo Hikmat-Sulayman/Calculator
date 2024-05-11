@@ -5,7 +5,7 @@ body {
 }
 
 .container {
-    width: 380px;
+    width: 400px;
     padding: 20px;
     text-align: center;
     border-radius: 10px;
@@ -24,7 +24,7 @@ input {
 
 .buttons {
     margin: auto;
-    width: 360px;
+    width: 38git 0px;
     display: flex;
    flex-wrap: wrap; 
    justify-content: center;
